@@ -1,0 +1,36 @@
+﻿@model List<EventoCalendario.Models.Asistencia>
+
+@{
+    ViewData["Title"] = "Mis Asistencias";
+}
+
+<h1>Asistencias de @ViewBag.Usuario.Nombre</h1>
+
+@if (Model.Count == 0)
+{
+    <p class="text-muted">No tienes asistencias registradas.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Evento</th>
+                <th>Fecha</th>
+                <th>Ubicación</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var asistencia in Model)
+            {
+                <tr>
+                    <td>@(asistencia.Evento != null ? asistencia.Evento.Nombre : "Evento no disponible")</td>
+                    <td>@(asistencia.Evento != null ? asistencia.Evento.Fecha.ToString("dd/MM/yyyy HH:mm") : "Fecha no disponible")</td>
+                    <td>@(asistencia.Evento != null ? asistencia.Evento.Ubicacion : "Ubicación no disponible")</td>
+                    <td>@asistencia.Estado</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

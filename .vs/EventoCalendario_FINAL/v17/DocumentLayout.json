@@ -1,0 +1,939 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\calendario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\calendario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\notificacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\notificacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\eventocalendario.web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\eventocalendario.web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\asistencia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\asistencia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\evento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\evento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\reporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\reporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\calendariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\calendariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\calendariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\calendariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\evento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\evento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\evento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\evento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\reporte\\verdetallesreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\reporte\\verdetallesreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\asistencia\\asistenciasconfirmadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\asistencia\\asistenciasconfirmadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\asistencia\\verasistencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\asistencia\\verasistencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\asistencia\\_asistenciasconfirmadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\asistencia\\_asistenciasconfirmadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\eventocalendario.web api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\eventocalendario.web api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\usuarioobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\usuarioobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\eventocalendario.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\eventocalendario.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.models\\eventocalendario.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED8485BA-53EF-4FC2-A959-F0C5F2F7E94D}|EventoCalendario.Models\\EventoCalendario.Models.csproj|solutionrelative:eventocalendario.models\\eventocalendario.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.mvc}\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7ADAED3-5DD1-4C0B-ABEA-D66CE1F8A420}|EventoCalendario.MVC}\\EventoCalendario.MVC.csproj|solutionrelative:eventocalendario.mvc}\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\migrations\\20250131130607_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\migrations\\20250131130607_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|c:\\users\\hidal\\source\\repos\\eventocalendario_final\\eventocalendario.web api\\migrations\\20250131233930_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE104AB-EB98-42A3-BD37-B0ECD6362605}|EventoCalendario.Web API\\EventoCalendario.Web API.csproj|solutionrelative:eventocalendario.web api\\migrations\\20250131233930_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Calendario\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Calendario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Calendario\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Calendario\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:15:07.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\NotificacionController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\NotificacionController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\NotificacionController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\NotificacionController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:55:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\NotificacionController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\NotificacionController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\NotificacionController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\NotificacionController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:01:41.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventoCalendario.Web API.csproj",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\EventoCalendario.Web API.csproj",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\EventoCalendario.Web API.csproj",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\EventoCalendario.Web API.csproj",
+              "RelativeToolTip": "EventoCalendario.Web API\\EventoCalendario.Web API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawBUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T01:39:48.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Notificacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Notificacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Notificacion\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Notificacion\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T02:02:57.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Notificacion.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Notificacion.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Notificacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:46:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:04:12.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:03:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwHwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:37:50.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Reporte\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\Create.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Reporte\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:46:58.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Evento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Evento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:02:45.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Evento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Create.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Evento\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:08:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Asistencia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Asistencia\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T01:34:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T01:40:09.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:51:25.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T01:42:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalendarioController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\CalendarioController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\CalendarioController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\CalendarioController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\CalendarioController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:41:40.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwK4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:55:34.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CalendarioController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\CalendarioController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\CalendarioController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\CalendarioController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\CalendarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:54:46.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calendario.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Calendario.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Calendario.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Calendario.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Calendario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:46:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAApwI4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:36:52.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Program.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Program.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Program.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:38:31.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250131233930_v2.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250131233930_v2.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250131233930_v2.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250131233930_v2.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250131233930_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:39:30.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Evento.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Evento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Evento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Edit.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Evento\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T18:19:48.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:32:41.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Reporte.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Reporte.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Reporte.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:15:48.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:17:15.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Evento\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Delete.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Evento\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:02:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VerDetallesReporte.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\VerDetallesReporte.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Reporte\\VerDetallesReporte.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Reporte\\VerDetallesReporte.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Reporte\\VerDetallesReporte.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:46:39.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:47:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Evento\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Evento\\Details.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Evento\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:24:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:13:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AsistenciasConfirmadas.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\AsistenciasConfirmadas.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Asistencia\\AsistenciasConfirmadas.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\AsistenciasConfirmadas.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Asistencia\\AsistenciasConfirmadas.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:23:35.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:57:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VerAsistencias.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\VerAsistencias.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Asistencia\\VerAsistencias.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\VerAsistencias.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Asistencia\\VerAsistencias.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T01:43:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_AsistenciasConfirmadas.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\_AsistenciasConfirmadas.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Asistencia\\_AsistenciasConfirmadas.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Asistencia\\_AsistenciasConfirmadas.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Asistencia\\_AsistenciasConfirmadas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T01:43:16.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Usuario.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:10:41.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Asistencia.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\Asistencia.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:45:39.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IObservador.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\IObservador.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\IObservador.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\IObservador.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\IObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:47:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250131130607_v0.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250131130607_v0.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250131130607_v0.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250131130607_v0.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250131130607_v0.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:06:08.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T14:45:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Program.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Program.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Program.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:25:22.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:57:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\appsettings.json",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\appsettings.json",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\appsettings.json",
+              "RelativeToolTip": "EventoCalendario.MVC}\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T14:32:26.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\appsettings.json",
+              "RelativeToolTip": "EventoCalendario.Web API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T00:21:56.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UsuarioObservador.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\UsuarioObservador.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\UsuarioObservador.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\UsuarioObservador.cs",
+              "RelativeToolTip": "EventoCalendario.Models\\UsuarioObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:47:32.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EventoCalendario.Web API.http",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\EventoCalendario.Web API.http",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\EventoCalendario.Web API.http",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\EventoCalendario.Web API.http",
+              "RelativeToolTip": "EventoCalendario.Web API\\EventoCalendario.Web API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-30T14:23:35.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250130143354_v3.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250130143354_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:33:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EventoCalendario.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\EventoCalendario.Models.csproj",
+              "RelativeDocumentMoniker": "EventoCalendario.Models\\EventoCalendario.Models.csproj",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Models\\EventoCalendario.Models.csproj",
+              "RelativeToolTip": "EventoCalendario.Models\\EventoCalendario.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T18:25:38.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EventoCalendario.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\EventoCalendario.MVC.csproj",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\EventoCalendario.MVC.csproj",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\EventoCalendario.MVC.csproj",
+              "RelativeToolTip": "EventoCalendario.MVC}\\EventoCalendario.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T17:20:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:06:03.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:04:56.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventoCalendario.MVC}\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.MVC}\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "EventoCalendario.MVC}\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T02:04:39.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250130004009_v1.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250130004009_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:40:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250130003605_v0.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250130003605_v0.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:36:05.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250130003137_v1.cs",
+              "DocumentMoniker": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs",
+              "RelativeDocumentMoniker": "EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs",
+              "ToolTip": "C:\\Users\\hidal\\source\\repos\\EventoCalendario_FINAL\\EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs",
+              "RelativeToolTip": "EventoCalendario.Web API\\Migrations\\20250130003137_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:31:37.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

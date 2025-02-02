@@ -1,0 +1,133 @@
+﻿@model IEnumerable<EventoCalendario.Models.Evento>
+@using Newtonsoft.Json
+
+@using EventoCalendario.Models  <!-- 🔹 Asegura que `Usuario` sea reconocido -->
+@{
+    ViewData["Title"] = "Calendario de Eventos";
+
+    int mesMostrado = ViewBag.Mes;
+    int anioMostrado = ViewBag.Anio;
+    int diasEnMes = ViewBag.DiasEnMes;
+    int primerDiaSemana = ViewBag.PrimerDiaSemana;
+
+    var eventos = ViewBag.Eventos as List<EventoCalendario.Models.Evento> ?? new List<EventoCalendario.Models.Evento>();
+    var usuarios = (ViewBag.Usuarios != null) ? (List<EventoCalendario.Models.Usuario>)ViewBag.Usuarios : new List<EventoCalendario.Models.Usuario>();
+
+}
+
+<div class="container mt-4">
+    <h2>Calendario de Eventos - @(new DateTime(anioMostrado, mesMostrado, 1).ToString("MMMM yyyy"))</h2>
+
+    <!-- 🔹 Formulario de Filtros -->
+    <form method="get" class="mb-3">
+        <!-- 🔹 Mantener mes y año en la recarga -->
+        <input type="hidden" name="mes" value="@mesMostrado" />
+        <input type="hidden" name="anio" value="@anioMostrado" />
+
+        <div class="row">
+            <div class="col-md-4">
+                <label for="tipo" class="form-label">Tipo de Evento</label>
+                <select name="tipo" id="tipo" class="form-select">
+                    <option value="">Todos</option>
+                    <option value="Deportivo" selected="@(ViewBag.TipoSeleccionado == "Deportivo")">Deportivo</option>
+                    <option value="Académico" selected="@(ViewBag.TipoSeleccionado == "Académico")">Académico</option>
+                    <option value="Cultural" selected="@(ViewBag.TipoSeleccionado == "Cultural")">Cultural</option>
+                    <option value="Social" selected="@(ViewBag.TipoSeleccionado == "Social")">Social</option>
+                </select>
+            </div>
+
+            <div class="col-md-4">
+                <label for="usuario" class="form-label">Usuario</label>
+                <select name="usuario" id="usuario" class="form-select">
+                    <option value="">Todos</option>
+                    @if (ViewBag.Usuarios != null)
+                    {
+                        @foreach (var usuario in ViewBag.Usuarios)
+                        {
+                            <option value="@usuario.Id" selected="@(ViewBag.UsuarioSeleccionado == usuario.Id.ToString())">
+                                @usuario.Nombre
+                            </option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-4 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary">Filtrar</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- 🔹 Botones de navegación entre meses -->
+    <div class="d-flex justify-content-between mb-3">
+        <a asp-controller="Calendario" asp-action="Index"
+           asp-route-mes="@(mesMostrado == 1 ? 12 : mesMostrado - 1)"
+           asp-route-anio="@(mesMostrado == 1 ? anioMostrado - 1 : anioMostrado)"
+           asp-route-tipo="@ViewBag.TipoSeleccionado"
+           asp-route-usuario="@ViewBag.UsuarioSeleccionado"
+           class="btn btn-secondary">← Mes Anterior</a>
+
+        <a asp-controller="Calendario" asp-action="Index"
+           asp-route-mes="@(mesMostrado == 12 ? 1 : mesMostrado + 1)"
+           asp-route-anio="@(mesMostrado == 12 ? anioMostrado + 1 : anioMostrado)"
+           asp-route-tipo="@ViewBag.TipoSeleccionado"
+           asp-route-usuario="@ViewBag.UsuarioSeleccionado"
+           class="btn btn-secondary">Mes Siguiente →</a>
+    </div>
+
+    <!-- 🔹 Tabla del Calendario -->
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Domingo</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miércoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+                <th>Sábado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < (diasEnMes + primerDiaSemana) / 7 + 1; i++)
+            {
+                <tr>
+                    @for (var j = 0; j < 7; j++)
+                    {
+                        var diaDelMes = i * 7 + j - primerDiaSemana + 1;
+
+                        if (diaDelMes < 1 || diaDelMes > diasEnMes)
+                        {
+                            <td></td>
+                        }
+                        else
+                        {
+                            <td>
+                                <strong>@diaDelMes</strong>
+                                <ul>
+                                    @foreach (var evento in eventos.Where(e => e.Fecha.Year == anioMostrado && e.Fecha.Month == mesMostrado && e.Fecha.Day == diaDelMes))
+                                    {
+                                        <li>
+                                            <a asp-controller="Evento" asp-action="Details" asp-route-id="@evento.Id">@evento.Nombre</a>
+                                        </li>
+                                    }
+                                </ul>
+                            </td>
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<a asp-controller="Evento" asp-action="Create" class="btn btn-secondary">Crear Evento</a>
+
+<a asp-controller="Usuario" asp-action="Create" class="btn btn-secondary">Crear Usuario</a>
+
+<a asp-controller="Reporte" asp-action="Index" class="btn btn-secondary">Reportes</a>
+
+<a asp-controller="Asistencia" asp-action="Index" class="btn btn-secondary">Lista asistencia</a>
+
+<a asp-controller="Notificacion" asp-action="Index" class="btn btn-secondary">Notificacion</a>
+

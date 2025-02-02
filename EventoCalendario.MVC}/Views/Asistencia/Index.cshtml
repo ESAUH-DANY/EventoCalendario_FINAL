@@ -1,0 +1,129 @@
+﻿@using EventoCalendario.Models
+@model IEnumerable<EventoCalendario.Models.Asistencia>
+
+@{
+    ViewData["Title"] = "Gestión de Asistencias";
+    var usuarios = ViewData["Usuarios"] as IEnumerable<Usuario> ?? new List<Usuario>();
+    var eventos = ViewData["Eventos"] as IEnumerable<Evento> ?? new List<Evento>();
+}
+
+<h1 class="text-center my-4">Gestión de Asistencias</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="container my-4">
+    <h3 class="text-primary">Enviar Invitaciones</h3>
+    <form method="post" asp-action="EnviarInvitacion" class="shadow p-4 rounded bg-light">
+        <div class="mb-3">
+            <label for="usuarioId" class="form-label">Seleccione un Usuario:</label>
+            <select name="usuarioId" id="usuarioId" class="form-select">
+                <option value="">-- Seleccione un Usuario --</option>
+                @foreach (var usuario in usuarios)
+                {
+                    <option value="@usuario.Id">@usuario.Nombre</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="eventoId" class="form-label">Seleccione un Evento:</label>
+            <select name="eventoId" id="eventoId" class="form-select">
+                <option value="">-- Seleccione un Evento --</option>
+                @foreach (var evento in eventos)
+                {
+                    <option value="@evento.Id">@evento.Nombre</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Enviar Invitación</button>
+    </form>
+
+    <hr class="my-5" />
+
+<h3>Asistencias</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Evento</th>
+            <th>Usuario</th>
+            <th>Estado</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var asistencia in Model)
+        {
+            <tr>
+                <td>@asistencia.Id</td>
+                <td>@(asistencia.Evento != null ? asistencia.Evento.Nombre : "Evento no disponible")</td>
+                <td>@(asistencia.Usuario != null ? asistencia.Usuario.Nombre : "Usuario no disponible")</td>
+                <td>@asistencia.Estado</td>
+                <td>
+                    @if (asistencia.Estado == "Pendiente")
+                    {
+                        <form method="post" asp-action="ActualizarEstado" class="d-inline">
+                            <input type="hidden" name="id" value="@asistencia.Id" />
+                            <input type="hidden" name="estado" value="Aceptada" />
+                            <button type="submit" class="btn btn-success btn-sm">Aceptar</button>
+                        </form>
+                        <form method="post" asp-action="ActualizarEstado" class="d-inline">
+                            <input type="hidden" name="id" value="@asistencia.Id" />
+                            <input type="hidden" name="estado" value="Rechazada" />
+                            <button type="submit" class="btn btn-danger btn-sm">Rechazar</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="badge bg-secondary">@asistencia.Estado</span>
+                    }
+                </td>
+            </tr>
+        }
+
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="5" class="text-center">No hay asistencias registradas.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <a asp-controller="Calendario" asp-action="Index" class="btn btn-secondary">Regresar al Calendario</a>
+        <button id="actualizar-asistencias" class="btn btn-primary">Actualizar Lista</button>
+    </div>
+
+    <h3 class="text-primary mt-5">Asistencias Confirmadas</h3>
+    <div id="asistencias-confirmadas" class="mt-3">
+        @await Html.PartialAsync("_AsistenciasConfirmadas", Model)
+    </div>
+</div>
+<a asp-controller="Calendario" asp-action="Index" class="btn btn-secondary">Regresar al Calendario</a>
+
+<script>
+    document.getElementById("actualizar-asistencias").addEventListener("click", function () {
+        fetch('/Asistencia/ObtenerAsistenciasConfirmadas')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("asistencias-confirmadas").innerHTML = html;
+            })
+            .catch(error => console.error('Error al cargar las asistencias:', error));
+    });
+</script>
+

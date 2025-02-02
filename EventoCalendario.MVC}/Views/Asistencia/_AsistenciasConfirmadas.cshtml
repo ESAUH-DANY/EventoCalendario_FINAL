@@ -1,0 +1,19 @@
+﻿@model List<EventoCalendario.Models.Asistencia>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p class="text-muted">No hay asistencias confirmadas.</p>
+}
+else
+{
+    <h3>Asistencias Confirmadas</h3>
+    <ul class="list-group">
+        @foreach (var asistencia in Model.Where(a => a.Estado == "Aceptada"))
+        {
+            <li class="list-group-item">
+                <strong>@(asistencia.Usuario != null ? asistencia.Usuario.Nombre : "Usuario no disponible")</strong>
+                asistirá a <strong>@(asistencia.Evento != null ? asistencia.Evento.Nombre : "Evento no disponible")</strong>
+            </li>
+        }
+    </ul>
+}

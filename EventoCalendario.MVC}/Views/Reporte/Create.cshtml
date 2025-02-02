@@ -1,0 +1,43 @@
+﻿@model List<EventoCalendario.Models.Reporte>
+@{
+    ViewData["Title"] = "Crear Reporte";
+}
+
+<h1 class="text-center my-4 text-primary"><i class="bi bi-file-earmark-plus"></i> Crear Reporte</h1>
+
+<div class="card shadow-lg p-4">
+    <div class="card-body">
+        <h4 class="card-title text-secondary text-center"><i class="bi bi-file-earmark-text"></i> Nuevo Reporte</h4>
+        <form asp-action="GenerarReporte" method="post">
+            <div class="row">
+                <!-- Selección de Evento -->
+                <div class="col-md-6">
+                    <label for="eventoId" class="form-label">Seleccione un Evento:</label>
+                    <input type="number" class="form-control" name="eventoId" required />
+                </div>
+
+                <!-- Tipo de Reporte -->
+                <div class="col-md-6">
+                    <label for="tipo" class="form-label">Tipo de Reporte:</label>
+                    <select class="form-select" name="tipo" required>
+                        <option value="Asistencia">Asistencia</option>
+                        <option value="Popularidad">Popularidad</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <!-- Contenido -->
+                <div class="col-md-12">
+                    <label for="contenido" class="form-label">Contenido del Reporte:</label>
+                    <textarea class="form-control" name="contenido" rows="3" required></textarea>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-between align-items-center mt-4">
+                <a asp-action="Index" class="btn btn-secondary"><i class="bi bi-arrow-left"></i> Volver</a>
+                <button type="submit" class="btn btn-primary"><i class="bi bi-save"></i> Guardar Reporte</button>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\bin\Debug\net8.0\EventoCalendario.Models.deps.json
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\bin\Debug\net8.0\EventoCalendario.Models.dll
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\bin\Debug\net8.0\EventoCalendario.Models.pdb
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.AssemblyInfoInputs.cache
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.AssemblyInfo.cs
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.csproj.CoreCompileInputs.cache
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.dll
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\refint\EventoCalendario.Models.dll
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.pdb
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\ref\EventoCalendario.Models.dll
+C:\Users\hidal\source\repos\EventoCalendario_FINAL\EventoCalendario.Models\obj\Debug\net8.0\EventoCalendario.Models.csproj.AssemblyReference.cache

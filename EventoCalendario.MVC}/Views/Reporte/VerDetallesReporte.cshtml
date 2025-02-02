@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Detalles del Reporte";
+    var numeroDeAsistentes = ViewBag.NumeroDeAsistentes ?? 0; // Si es nulo, asignamos 0
+    var totalPersonasEnEvento = ViewBag.TotalPersonasEnEvento ?? 0; // Si es nulo, asignamos 0
+}
+
+<h1 class="text-center my-4 text-primary"><i class="bi bi-file-earmark-text"></i> Detalles del Reporte</h1>
+
+<div class="card shadow-lg">
+    <div class="card-body">
+        <h5 class="card-title"><i class="bi bi-clipboard-check"></i> Reporte: @ViewBag.Tipo</h5>
+        <p class="card-text"><strong>Evento:</strong> @ViewBag.Evento</p>
+        <p class="card-text"><strong>Fecha del Reporte:</strong> @ViewBag.FechaGeneracion</p>
+        <p class="card-text"><strong>Contenido:</strong> @ViewBag.Contenido</p>
+
+        <h6 class="mt-4"><i class="bi bi-people"></i> Resumen del Evento</h6>
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Asistentes Confirmados:</strong> @numeroDeAsistentes</li>
+            <li class="list-group-item"><strong>Total Invitados:</strong> @totalPersonasEnEvento</li>
+        </ul>
+
+        <h6 class="mt-4"><i class="bi bi-person-check-fill"></i> Lista de Asistentes Confirmados</h6>
+        @if (ViewBag.Asistentes != null && ((List<string>)ViewBag.Asistentes).Any())
+        {
+            <ul class="list-group">
+                @foreach (var asistente in (List<string>)ViewBag.Asistentes)
+                {
+                    <li class="list-group-item">@asistente</li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p class="text-muted">No hay asistentes confirmados.</p>
+        }
+
+        <a asp-action="Index" class="btn btn-secondary mt-3"><i class="bi bi-arrow-left"></i> Volver a Reportes</a>
+    </div>
+</div>

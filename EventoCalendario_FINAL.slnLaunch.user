@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EventoCalendario.Web API\\EventoCalendario.Web API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EventoCalendario.MVC}\\EventoCalendario.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

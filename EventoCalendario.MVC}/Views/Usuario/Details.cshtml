@@ -1,0 +1,18 @@
+﻿@model EventoCalendario.Models.Usuario
+
+@{
+    ViewData["Title"] = "Detalles del Usuario";
+}
+
+<h2>Detalles del Usuario</h2>
+
+<ul>
+    <li><strong>ID:</strong> @Model.Id</li>
+    <li><strong>Nombre:</strong> @Model.Nombre</li>
+    <li><strong>Correo:</strong> @Model.Correo</li>
+    <li><strong>Rol:</strong> @Model.Rol</li>
+</ul>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+<a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Eliminar</a>
+<a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>

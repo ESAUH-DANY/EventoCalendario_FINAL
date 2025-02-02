@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <header class="bg-primary text-white text-center py-4">
+        <h1 class="h3">Proyecto Integrador</h1>
+    </header>
+
+    <section class="text-center bg-primary text-white py-5">
+        <h2 class="display-5">Bienvenido a la Gestión de Eventos</h2>
+        <p>Organiza, administra y visualiza todos tus eventos fácilmente.</p>
+    </section>
+
+    <div class="container mt-4">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Crear Eventos</h5>
+                        <p class="card-text">Gestiona tus eventos académicos desde esta sección.</p>
+
+                        <a asp-controller="Evento" asp-action="Create" class="btn btn-secondary">Crear Evento</a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Ver Calendario</h5>
+                        <p class="card-text">Consulta todos los eventos programados en tu calendario.</p>
+
+                        <a asp-controller="Calendario" asp-action="Index" class="btn btn-secondary">Ver Calendario</a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Reportes</h5>
+                        <p class="card-text">Genera informes detallados de los eventos realizados.</p>
+
+                        <a asp-controller="Reporte" asp-action="Index" class="btn btn-secondary">Reporte</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-primary text-white text-center py-3 mt-4">
+        <p>© 2025 Universidad Técnica del Norte. Todos los derechos reservados.</p>
+    </footer>
+</div>
